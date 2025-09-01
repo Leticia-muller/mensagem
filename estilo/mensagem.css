@@ -1,0 +1,27 @@
+body {
+  min-height: 100vh;
+  background-color: pink;
+  color: rgb(87, 9, 35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 8000;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+}
+
+section {
+  text-align: center;
+}
